@@ -1,7 +1,7 @@
 <!-- About the project -->
 ## :star2: About the Project
 
-<a>A search algorithm that allows renters to find locations where they can store multiple vehicles.</a>
+<a>A search algorithm that allows renters to find locations to store multiple vehicles.</a>
 <div align="center"> 
   <img src="assets/Screenshot1.png" alt="screenshot1" />
   <img src="assets/Screenshot2.png" alt="screenshot2" />

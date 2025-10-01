@@ -41,10 +41,12 @@ Go to the project directory
   cd vehicle-search
 ```
 
-Install dependencies
+Create a virtual environment and install dependencies
 
 ```bash
-  yarn install
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
 Start the API server

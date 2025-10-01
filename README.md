@@ -58,6 +58,24 @@ Open in browser
 http://127.0.0.1:8000/docs
 ```
 
+Click the "try it out" button and send a request. For example:
+```bash
+[
+  {
+    "length": 10,
+    "quantity": 1
+  },
+  {
+    "length": 20,
+    "quantity": 2
+  },
+  {
+    "length": 25,
+    "quantity": 1
+  }
+]
+```
+
 <!-- Usage -->
 ## :eyes: Usage
 

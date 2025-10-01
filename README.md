@@ -47,12 +47,16 @@ Install dependencies
   yarn install
 ```
 
-Start the server
+Start the API server
 
 ```bash
-  yarn start
+uvicorn app.main:app --reload --port 8000
 ```
 
+Open in browser
+```bash
+http://127.0.0.1:8000/docs
+```
 
 <!-- Usage -->
 ## :eyes: Usage

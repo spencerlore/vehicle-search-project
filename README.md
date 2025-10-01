@@ -22,9 +22,10 @@
 <!-- Features -->
 ### :dart: Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Includes every possible location that could store all requested vehicles.
+- Includes the chapest possible combination of listings per location.
+- Includes only one result per location_id.
+- Sorted by the total price in cents, ascending.
 
 <!-- Run Locally -->
 ### :running: Run Locally
@@ -77,19 +78,3 @@ Click the "try it out" button and send a request. Example:
   }
 ]
 ```
-
-<!-- Usage -->
-## :eyes: Usage
-
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)

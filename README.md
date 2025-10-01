@@ -32,13 +32,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+  git clone https://github.com/spencerlore/vehicle-search-project
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd vehicle-search
 ```
 
 Install dependencies

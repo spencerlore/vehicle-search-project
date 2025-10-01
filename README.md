@@ -52,7 +52,7 @@ pip install -r requirements.txt
 Start the API server
 
 ```bash
-uvicorn app.main:app --reload --port 8000
+python -m uvicorn app.main:app --reload --port 8000
 ```
 
 Open in browser

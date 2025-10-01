@@ -3,7 +3,7 @@
 
 <a>A search algorithm that allows renters to find locations where they can store multiple vehicles.</a>
 <div align="center"> 
-  <img src="/assets/Screenshot1" alt="screenshot" />
+  <img src="assets/Screenshot1.png" alt="screenshot" />
 </div>
 
 

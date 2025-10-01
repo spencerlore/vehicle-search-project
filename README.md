@@ -60,7 +60,7 @@ Open in browser
 http://127.0.0.1:8000/docs
 ```
 
-Click the "try it out" button and send a request. For example:
+Click the "try it out" button and send a request. Example:
 ```bash
 [
   {

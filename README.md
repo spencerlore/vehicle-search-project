@@ -3,7 +3,7 @@
 
 <a>A search algorithm that allows renters to find locations where they can store multiple vehicles.</a>
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="/assets/Screenshot1" alt="screenshot" />
 </div>
 
 

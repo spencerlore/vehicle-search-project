@@ -1,4 +1,4 @@
-<!-- About the Project -->
+<!-- About the project -->
 ## :star2: About the Project
 
 <div align="center"> 
@@ -12,10 +12,11 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+    <li><a href="https://www.python.org/">Python</a></li>
+    <li><a href="https://fastapi.tiangolo.com/">FastAPI</a></li>
+    <li><a href="https://uvicorn.dev/">Uvicorn</a></li>
+    <li><a href="https://docs.pydantic.dev/latest/">Pydantic</a></li>
+    <li><a href="https://docs.pytest.org/en/stable/">Pytest</a></li>
   </ul>
 </details>
 

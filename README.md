@@ -10,7 +10,6 @@
 ### :space_invader: Tech Stack
 
 <details>
-  <summary>Client</summary>
   <ul>
     <li><a href="https://www.python.org/">Python</a></li>
     <li><a href="https://fastapi.tiangolo.com/">FastAPI</a></li>

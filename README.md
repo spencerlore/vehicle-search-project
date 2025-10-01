@@ -1,6 +1,7 @@
 <!-- About the project -->
 ## :star2: About the Project
 
+<a>a search algorithm that will allow renters to find locations where they could store multiple vehicles.</a>
 <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
 </div>

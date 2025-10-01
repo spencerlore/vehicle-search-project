@@ -52,7 +52,7 @@ pip install -r requirements.txt
 Start the API server
 
 ```bash
-uvicorn app.main:app --reload --port 8000
+python -m uvicorn app.main:app --reload --port 8000
 ```
 
 Open in browser
@@ -60,7 +60,7 @@ Open in browser
 http://127.0.0.1:8000/docs
 ```
 
-Click the "try it out" button and send a request. For example:
+Click the "try it out" button and send a request. Example:
 ```bash
 [
   {

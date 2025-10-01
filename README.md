@@ -38,7 +38,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd vehicle-search
+  cd vehicle-search-project
 ```
 
 Create a virtual environment and install dependencies
